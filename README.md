@@ -1,19 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá. 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is Davidson Guedes and I'm a versatile professional with a background that combines data science, graphic design, photography, marketing, and management. My passion for technology and creativity allows me to tackle problems with a unique perspective, blending technical analysis with artistic vision.</p>
+<p align="left">Meu nome é Davidson Guedes e sou um profissional versátil com uma trajetória que combina ciência de dados, design gráfico, fotografia, marketing e gestão. Minha paixão por tecnologia e criatividade me permite abordar problemas com uma perspectiva única, integrando análise técnica e visão artística.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
-<p align="left">🐍 <b>Data Science:</b> Graduated from <a href="https://tripleten.com.br/cientista-de-dados/" target="_blank">TripleTen's Data Science</a> course, I developed skills in Python, Machine Learning, statistical data analysis, and data visualization. I have experience with tools like pandas, NumPy, Matplotlib, Scikit-learn, and SQL.<br>
-🎦 <b>Design and Audiovisual Production:</b> With over 14 years of experience, I have created visual identities, graphic materials, and audiovisual projects. I am proficient in tools like Adobe Photoshop, Illustrator, After Effects, Premiere, and more.<br>
-🎥 <b>Photography and Video:</b> I have worked as a photographer and videomaker at various events, with expertise in editing and post-production.<br>
-🎯 <b>Management and Marketing:</b> I have served as an educational and financial manager, leading teams, optimizing processes, and developing marketing and branding strategies for different companies.</p>
+<p align="left">🐍 <b>Ciência de Dados:</b> Formado pelo curso de <a href="https://tripleten.com.br/cientista-de-dados/" target="_blank">Ciência de Dados</a> da <a href="https://tripleten.com.br/" target="_blank">Tripleten Brasil</a>, desenvolvi habilidades em Python, Machine Learning, análise de dados estatísticos e visualização de dados. Tenho experiência em ferramentas como pandas, NumPy, Matplotlib, Scikit-learn e SQL.<br>
+🎦 <b>Design e Produção Audiovisual:</b> Com mais de 14 anos de experiência, criei identidades visuais, materiais gráficos e projetos audiovisuais. Domino ferramentas como Adobe Photoshop, Illustrator, After Effects, Premiere e outras.<br>
+🎥 <b>Fotografia e Vídeo:</b> Trabalhei como fotógrafo e videomaker em eventos variados, com expertise em edição e pós-produção.<br>
+🎯 <b>Gestão e Marketing::</b> Atuei como gestor educacional e financeiro, liderando equipes, otimizando processos e desenvolvendo estratégias de marketing e branding para empresas.</p>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">I’m always looking for challenges and opportunities to apply my experience and expand my knowledge. Let’s connect and create something amazing together! 🚀</p>
+<p align="left">Estou sempre buscando desafios e oportunidades para aplicar minha experiência e expandir meus conhecimentos. Vamos conectar e criar algo incrível juntos! 🚀</p>
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<h2 align="left">Contacts</h2>
+<h2 align="left">Contatos</h2>
 
 ###
 
